@@ -1,3 +1,4 @@
+
 Soy Samuel Simeone. Vivo en Venezuela y soy Ingeneiero Electricista.
 
 He programado en Matlab. Actualmente estoy realizando el curso de Analisis de datos con Ironhack porque escuentro esta area sumamente interezante. 
