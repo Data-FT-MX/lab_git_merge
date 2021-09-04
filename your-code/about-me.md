@@ -9,6 +9,7 @@ Anteriormente he tenido experencia desarrollando aplicaciones en Labview para in
 
 # Why am I here
 
+<<<<<<< HEAD
 * What has brought you to Ironhack?
 por conseguir los conocmientos necesarios para seguir creciendo profesionalmnete 
 * What knowledge/skills do you expect to learn in this bootcamp?
@@ -20,3 +21,6 @@ todos los conocimientos para ser un ingeniero de datos
 * Which industry will you seek employment in?
 * What will your future role look like?
 * What is your career goal?
+
+
+>>>>>>> 15c936c284a6905b39aedb37fbe19d3a4cad1095
